@@ -1,5 +1,5 @@
 ## Roll-a-Ball
-![Screenshot of game](images/screenshot.png "Screenshot of game")
+![Screenshot of game](https://raw.githubusercontent.com/sc2492/roll-a-ball/main/images/screenshot.png "Screenshot of game")
 ### Intro
 I built the Roll-a-Ball game in Unity for a VR class project! This was an exercise in creating 3D virtual environments a user can interact with. I don't come from a background in programming, but I learned a thing or two about creating custom scripts with C# and using code to build a basic user interface. This was also a good opportunity for me to brush up on good version control habits in GitHub and markdown syntax I learned from an intro web design class.
 ### Instructions
